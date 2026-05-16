@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | MLOps Engineer | Senior IT Operations Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSc_Data_Science-Kingston_University_London-blue?style=flat-square&logo=academia" alt="Education" />
+  <img src="https://img.shields.io/badge/MSc_Data_Science-Kingston_University_London-blue?style=flat-square" alt="Education" />
   <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws" alt="AWS Certified" />
 </p>
 
@@ -48,10 +48,10 @@
 <details>
 <summary><b>Data Science & AI</b></summary>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Hugging_Face_logo.svg" alt="huggingface" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://fonts.gstatic.com/s/i/short-term/release/googletest/huggingface/default/24px.svg" alt="huggingface" width="40" height="40"/>
 </p>
 </details>
 
@@ -61,19 +61,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="githubactions" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>Monitoring & Data Engineering</b></summary>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
 </p>
 </details>
 
