@@ -81,8 +81,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeepsachintha&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepsachintha&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SadeepSachintha&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadeepSachintha&theme=tokyonight" alt="Streak" />
 </p>
 
 ---
