@@ -24,7 +24,7 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Sinhala Sentiment Analysis API](https://github.com/SadeepSachintha/NLP-Model-Deployment)** | `FastAPI`, `Docker`, `HuggingFace` | Production-ready NLP system with automated CI/CD and glassmorphism UI. |
+| **[Sinhala Sentiment Analysis API](https://github.com/SadeepSachintha/NLP-Model-Deployment)** | `FastAPI`, `Docker`, `HuggingFace` | Production-ready NLP system with automated CI/CD and glassmor[...]
 | **[ML System Observability](https://github.com/SadeepSachintha/ML-Observability)** | `Prometheus`, `Grafana`, `Python` | Real-time monitoring for data drift and model performance. |
 | **[Real-Time Analytics System](https://github.com/SadeepSachintha/Real-Time-Analytics)** | `Kafka`, `Spark`, `PostgreSQL` | High-performance streaming pipeline for market data processing. |
 | **[Automated ML Deployment](https://github.com/SadeepSachintha/Automated-ML-Deployment)** | `GitHub Actions`, `Docker`, `HF Spaces` | Zero-touch MLOps pipeline for continuous model delivery. |
@@ -89,8 +89,8 @@
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/sadeepsachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://dev.to/@sadeepprithiviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadeepsachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Soci[...]
+<a href="https://dev.to/@sadeepprithiviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev[...]
 <a href="mailto:sadeepsachintha98@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
 </p>
 
