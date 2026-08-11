@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadeep Sachintha</h1>
-<h3 align="center">Data Scientist | MLOps Engineer | Senior IT Operations Specialist</h3>
+<h3 align="center">Systems Engineer & MLOps Architect | MSc Data Science Candidate | PhD Aspirant (Fall 2027)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MSc_Data_Science-Kingston_University_London-blue?style=flat-square" alt="Education" />
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  Bridging the gap between <b>IT Operations</b> and <b>Predictive Analytics</b>. I specialize in building production-ready ML systems, scalable data pipelines, and automated deployment workflows.
+  Bridging the gap between <b>high-performance machine learning</b> and <b>scalable, production-grade infrastructure</b>. Actively seeking a PhD position for the Fall 2027 intake to research automated deployment, telemetry, and self-healing data pipelines.
 </p>
 
 ---
 
 ### 🚀 Current Focus
-- 🧠 **NLP & AI:** Developing sentiment analysis systems for native languages.
-- ⚙️ **MLOps:** Automating the lifecycle of ML models from training to cloud deployment.
-- 📊 **Data Engineering:** Building real-time streaming pipelines with Kafka and Spark.
+- 🧠 **Systems for ML & MLOps:** Automating model lifecycles, containerized orchestration, and self-healing infrastructure.
+- ⚙️ **Concept Drift Telemetry:** Real-time telemetry, drift monitoring, and automated model recovery.
+- 📊 **Data Engineering:** High-performance streaming data pipelines with Kafka, Spark, and Airflow.
 - 🌱 Currently deep-diving into **Advanced NLP and Scalable MLOps Architectures**.
 
 ---
@@ -24,10 +24,10 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Sinhala Sentiment Analysis API](https://github.com/SadeepSachintha/NLP-Model-Deployment)** | `FastAPI`, `Docker`, `HuggingFace` | Production-ready NLP system with automated CI/CD and glassmorphism UI. |
-| **[ML System Observability](https://github.com/SadeepSachintha/ML-Observability)** | `Prometheus`, `Grafana`, `Python` | Real-time monitoring for data drift and model performance. |
-| **[Real-Time Analytics System](https://github.com/SadeepSachintha/Real-Time-Analytics)** | `Kafka`, `Spark`, `PostgreSQL` | High-performance streaming pipeline for market data processing. |
-| **[Automated ML Deployment](https://github.com/SadeepSachintha/Automated-ML-Deployment)** | `GitHub Actions`, `Docker`, `HF Spaces` | Zero-touch MLOps pipeline for continuous model delivery. |
+| **[Automated Commodity Price Forecasting](https://github.com/SadeepSachintha/mlo-pipeline-cbsl)** | `Python`, `FastAPI`, `MLflow`, `DVC`, `Docker` | End-to-end MLOps pipeline with automated ingestion, drift monitoring, and recursive forecasting. |
+| **[StockSense AI](https://github.com/SadeepSachintha/StockSense-AI)** | `Laravel 12`, `Vue 3`, `FastAPI`, `LightGBM`, `Airflow` | Premium predictive inventory SaaS with automated ETL, Great Expectations checks, and drift autorecovery. |
+| **[ML System Observability](https://github.com/SadeepSachintha/Monitoring-Observability-for-ML-Systems)** | `FastAPI`, `Prometheus`, `Grafana`, `MLflow` | Production-ready ML observability system with data drift telemetry and real-time visualization. |
+| **[Real-Time Analytics System](https://github.com/SadeepSachintha/Real-Time-Analytics-System)** | `Kafka`, `Spark`, `PostgreSQL`, `Grafana`, `Docker` | High-performance streaming pipeline for market data processing. |
 
 ---
 
